@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello，我是神的尾巴，一个全栈工程师、独立开发者、创业者。
 
-<!--
-**godtail/godtail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+去过创业公司，去过头部大厂。
 
-Here are some ideas to get you started:
+擅长从0到1打造产品，涵盖设计、前端、后端、运维、安全。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+小能造轮，大能架构。
+
+欢迎关注我的个人公众号：神的尾巴。
+
+**定期更新，每两天至少更新1篇文章。**
+
+![](https://godtail.tech.top/20200822021545.png!shareclean)
