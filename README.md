@@ -1,15 +1,3 @@
-Hello，我是神的尾巴，一个全栈工程师、独立开发者。
+Blog：<https://blog.tech.top>
 
-去过创业公司，去过头部大厂。
-
-擅长从0到1打造产品，涵盖设计、前端、后端、运维、安全。
-
-小能造轮，大能架构。
-
-欢迎关注我的微信公众号：神的尾巴。
-
-> 公众号定期更新，每两天至少更新1篇文章。
-
-个人博客：<https://blog.tech.top>
-
-独立作品集：<https://product.tech.top>
+Product：<https://product.tech.top>
