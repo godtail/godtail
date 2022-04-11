@@ -1,6 +1,8 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godtail)](https://github.com/godtail/github-readme-stats)
+
 ### [React Atom](https://react-atom.com)
 
-> Next generation atomization framework, Build application atomic with you design ❤
+> Next generation atomization framework, build application atomic with you design ❤
 
 |Package|Version|Size|
 |-|-|-|
