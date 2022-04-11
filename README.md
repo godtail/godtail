@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godtail)](https://github.com/godtail/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godtail&layout=compact)
 
 ### [React Atom](https://react-atom.com)
 
