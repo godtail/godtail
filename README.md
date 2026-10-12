@@ -1,6 +1,4 @@
-## 🚀 Building HiTest
-
-I'm building **HiTest**, an AI QA agent that helps small teams test without writing code.
+I'm building [**HiTest**](https://hitest.ai), an AI QA agent that helps small teams test without writing code.
 
 - Discover test cases with AI.
 - Turn recordings or existing Excel cases into tests.
