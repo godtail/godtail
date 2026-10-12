@@ -1,8 +1,11 @@
-### 🔥 Coding
+## 🚀 Building HiTest
 
-- [Object Standard Path](https://github.com/react-earth/object-standard-path): Typed get/set deep nested properties with standard path.
-- [React Happy Form](https://github.com/react-earth/react-happy-form): Simple, easy to use, powerful form state manage tools.
-- [React Happy Global State](https://github.com/react-earth/react-happy-global-state): Manage your global state, just like using the useState hook.
-- [React Atom](https://github.com/react-earth/react-atom): Build application atomic with you design.
+I'm building **HiTest**, an AI QA agent that helps small teams test without writing code.
 
-👋 Feel free to contact me! (easilyjs@gmail.com)
+- Discover test cases with AI.
+- Turn recordings or existing Excel cases into tests.
+- Write in natural language, schedule runs, and investigate failures with screenshots and recordings.
+
+<a href="https://peerlist.io/easilyjs/project/hitest">
+  <img src="https://peerlist.io/api/v1/projects/embed/PRJHJKNLAM7QOL86A2RRREKD6JDMNG?showUpvote=false&theme=light" alt="HiTest on Peerlist" height="72" />
+</a>
