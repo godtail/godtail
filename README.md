@@ -4,7 +4,3 @@ Currently, I’m building [HiTest](https://hitest.ai/) — an AI QA agent for te
 - Start with what you have: plain-English instructions, recordings, or existing Excel test cases.
 - Keep testing as you ship: schedule real-browser runs and investigate failures with screenshots and recordings.
 More time turning ideas into products. Less time repeating the same checks.
-
-<a href="https://peerlist.io/easilyjs/project/hitest">
-  <img src="https://peerlist.io/api/v1/projects/embed/PRJHJKNLAM7QOL86A2RRREKD6JDMNG?showUpvote=false&theme=light" alt="HiTest on Peerlist" height="72" />
-</a>
