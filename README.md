@@ -1,7 +1,3 @@
-Currently, I’m building **[HiTest](https://hitest.ai)**, an AI QA agent.
+I'm Xusheng Yang, a full-stack software engineer. I build web and mobile products, including AI applications, and enjoy taking ideas from prototype to production.
 
-I believe founders and small teams should spend more time building and improving their products, rather than worrying about testing.
-
-I'm exploring how AI can take care of the repetitive parts of QA, making it easier for small teams to move fast without sacrificing quality.
-
-Still building, learning, and figuring things out along the way.
+I learn by building independent projects and share some of the tools I develop as open source.
